@@ -9,3 +9,7 @@
 -user.name symone williams
 -user.email moetori30@gmail.com
 
+## Extensions Installed
+-prettier
+-live server
+-github theme
